@@ -1,0 +1,9 @@
+1. Type Screen to open a terminal session
+
+2. Type Crl+a A to change namee of title window
+
+3. Crl+a "" to list the running terminals
+
+4. Crl+a d to detach screen.
+
+5. screen -ls to list of screens and screen -r <screen-id> to retach terminal
